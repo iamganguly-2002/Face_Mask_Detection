@@ -1,0 +1,5 @@
+cd ~/Downloads  <----------(Note- use that directory name in place of "Downloads" where your model is saved.. I used Downloads cause i saved my model here)
+python3 -m venv venv
+source venv/bin/activate
+python face_mask_live_demo.py
+
